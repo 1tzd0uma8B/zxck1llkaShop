@@ -20,8 +20,21 @@
 
 ```
 
+### СКАЧАТЬ
+```
+git clone https://github.com/1tzd0uma8B/zxck1llkaShop
+cd zxck1llkaShop
+npm install
+pnpm install(опционально, можно также через yarn но там ошибка, обьясните мне пожалуйста как с ним работать)
+npm start
+```
+
 ### Сейчас я делаю обнову
 
 Мои связи:
 - [TELEGRAM](https://t.me/@zxck1llka)
 - [Пока всё](127.0.1:8080)
+
+### BUY HERE
+
+- [Telegram](https://t.me/@zxck1llka)
